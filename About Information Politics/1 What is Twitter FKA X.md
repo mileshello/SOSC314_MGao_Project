@@ -1,4 +1,4 @@
-#What is Twitter/X?
+# What is Twitter/X?
 
 Twitter was initial founded in 2006 by Jack Dorsey as a platform to broadcast post brief status updates; the platform was intended as a casual social media platform for users to share personal updates between friends.
 
@@ -10,7 +10,7 @@ With help from these tools, Twitter increasingly became used as a news source, a
 
 Image of tweets used to raise awareness for a Haiti natural disaster in 2010
 
-##How is Twitter relevant to information politics? Why should it be considered an influential platform?
+## How is Twitter relevant to information politics? Why should it be considered an influential platform?
 Throughout the 2010s, Twitter was increasingly used to fascilitate social movements. The 2017 #MeToo movement was an instance of this usecase. Sparked by female celebrities publicizing their stories of sexual harassment and assault, many public figures encouraged others to come forward with their own stories. In doing so, many hoped to open a dialogue on issues surrounding consent and power dynamics. Twitter was the main platform used to spread and discuss @MeToo, sparking widespready HR policy changes in the workplace.
 
 <img width="300" height="261" alt="meetoo_graphic" src="https://github.com/user-attachments/assets/d33a99dc-a8c0-4c16-bed6-d93e81087f7b" />
