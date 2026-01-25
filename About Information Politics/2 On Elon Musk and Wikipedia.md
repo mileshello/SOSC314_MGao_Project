@@ -7,13 +7,13 @@ Musk began showing support for the Republican party in the United States in 2022
 ## Musk's Comments on Wikipedia
 In addition to the takeover influencing public discourse, Musk has directly critiqued Wikipedia as a platform, citing bias and censorship. Below are quotations and links to his comments on the platform.
 
-Before the takeover:
+### Before the takeover:
 
 "They say history is written by the victors, but not on Wikipedia if the losing party is still alive & has lots of time on their hands!" April 21, 2022, https://x.com/elonmusk/status/1517055957209071617
 
 "Wikipedia is losing its objectivity @jimmy_wales" July 29, 2022, https://x.com/elonmusk/status/1553031114838745089
 
-After the takeover:
+### After the takeover:
 
 "Most of Earth: 'The MSM is biased.' Wikipedia: 'Cite MSM source to confirm this claim.' 🤣🤣 Wikipedia has a non-trivial left-wing bias. @jimmy_wales, what are your thoughts?" Dec 6, 2022, https://x.com/elonmusk/status/1600200000763756544.
 
