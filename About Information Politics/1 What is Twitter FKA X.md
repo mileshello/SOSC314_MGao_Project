@@ -19,8 +19,20 @@ Twitter also become controversial for the spread of information and harassment, 
 
 Eventually, approaching 2020, Twitter began to more aggressively crack down on misinformation during the COVID-19 pandemic and election cycle. Some, including Elon Musk, believed that this crackdown was heavily biased towards left-leaning politics; critics took issue with the ban on Donald Trump's twitter account following the 2021 United States Capital insurrection.
 
-Twitter was acquired by Elon Musk in early 2022, with the handover completed on October 22, 2022. Its algorithms and censorship policies have changed drastically during this time period.
-
 Twitter's history is marred in controversy over misinformation and conspiracy, but ultimately its popularity has never dropped significantly throughout its lifespan. Therefore, it is worth studying the imapct of Twitter and its changing policies.
 
+![Twitter Users in Millions](https://github.com/user-attachments/assets/8b39d68a-6de7-4ffe-aea1-f2297be8295c) 
+https://worldpopulationreview.com/country-rankings/twitter-users-by-country
+
 Source: https://www.britannica.com/money/Twitter
+
+## Twitter/X under Musk
+Twitter was acquired by Elon Musk in early 2022, with the handover completed on October 22, 2022. Its algorithms and censorship policies have changed drastically during this time period.
+
+The purpose of the project is not  to evaluate Musk's support for freedom of speech on Twitter, nor is it to accuse him of being a biased or partisan as a leader of the platform; it is moreso to monitor the real impact of his purchase of the platform on adjacent information sites. However, his political affiliations are relevant, as he is now one of the most prominent voices on the platform, as well as a major influence on the algorithm of the platform. 
+
+Under his leadership, the transparancy of the Twitter algorithm has changed, decreasing in some ways. He has publicized documents regarding censorship of the platform before his takeover. However, he has not fully open-sourced the platform, keeping his changes to the approach of censorship private. A public change included the boost of verified accounts; under Musk, verified accounts are no longer given to public figures, but instead can be purchased for a monthly subscription. This has the effect of biasing promotion of tweets towards users who would purchase verification. For instance, users who support Musk's takeover would be expected to be more likely to purchase verification.
+
+Musk has introduced community notes to attempt to curb misinformation. Additionally, he has introduced an in-platform AI called Grok, which is developed under his company XAI. Some accuse Musk of biasing the AI as well; he has shown willingness in the past to tweak Grok, citing the spread of misinformation; this is a case of disagreement on information occuring on the platform, a major aspect of the trend this project aims to study.
+
+<img width="185" height="273" alt="ElonCringeIdiocracy" src="https://github.com/user-attachments/assets/30d9adb7-d1d3-431c-9a8a-6d252f4c227d" />
