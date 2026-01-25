@@ -2,7 +2,8 @@
 Twitter was initial founded in 2006 by Jack Dorsey as a platform to broadcast post brief status updates; the platform was intended as a casual social media platform for users to share personal updates between friends.
 From around 2007 onwards, Twitter explodes in popularity, with the platform becoming dominated by popular trends and large influencers, marking a shift from its original purpose. Hashtags were a popular method to categorize tweets. Retweets quote tweets, and @ mentions were used to continue discussions and directly interact with other users.
 With help from these tools, Twitter increasingly became used as a news source, as well as a platform for people to post their immediate reactions to concurrent events and form discussions around them. In 2009, actor Ashton Kutcher and the news source CNN the two largest users, becoming the first two accounts with over one million followers. During the same year, the verification checkmark was introduced to differentiate authentic accounts of infleuntial figures from imposters, signifying increased use of the platform for information and by famous people.
-![HaitiEarthquake](story.technology.haiti.courtesy.jpg)
+![HaitiEarthquake](SOSC314_MGao_Project/Images_Figures
+/story.technology.haiti.courtesy.jpg)
 Image of tweets used to raise awareness for a Haiti natural disaster in 2010
 
 ##How is Twitter relevant to information politics? Why should it be considered an influential platform?
