@@ -1,4 +1,4 @@
-Contains code and results of edit volume pulling from the MediaWiki API. The code will find all the edits, bin them into months, and graph them.
+Contains code and results of edit volume pulling from the MediaWiki API. The code will find all the edits, bin them into months, and plot them on a bar graph by time.
 
 #Instructions for using this code to pull edit volume data:
 1. Select pages, gather exact titles including punctuation, spaces and capitalization
